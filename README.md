@@ -25,7 +25,7 @@ npm start
 
 ---
 
-if cach error:  
+if catch error:  
 react Cannot find module 'ajv/dist/compile/codegen'  
 then:  
 `npm install ajv@latest ajv-keywords@latest`
@@ -35,14 +35,15 @@ fix from: [Quick Guide: Resolving "Cannot find module 'ajv/dist/compile/codegen'
 ### tutorial src:
 https://github.com/makhabatabdi/React-Todo/tree/master/src
 
+
+
+<!--
+
 ---
 
 ### Remove from index but live in directory
 `git rm -r -f --cached .`
 
-
-
-<!--
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
